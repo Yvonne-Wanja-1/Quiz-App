@@ -14,17 +14,6 @@ A simple quiz application built using Flutter as part of learning advanced basic
 *   Highlights correct vs. incorrect answers in the summary.
 *   Scrollable summary view for quizzes with many questions.
 
-## Screenshots
-
-(Optional: Add screenshots of your app here if you have them)
-
-*   *Example: Start Screen*
-    ![Start Screen](path/to/your/start_screen_screenshot.png)
-*   *Example: Question Screen*
-    ![Question Screen](path/to/your/question_screen_screenshot.png)
-*   *Example: Results Summary Screen*
-    ![Results Screen](path/to/your/results_screen_screenshot.png)
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
